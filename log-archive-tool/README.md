@@ -2,7 +2,7 @@
 
 This is my solution for the **Log Archive Tool** project from roadmap.sh.
 
-**Project URL:** https://roadmap.sh/projects/log-archive-tool
+Project URL: https://roadmap.sh/projects/log-archive-tool
 
 ## Description
 A Bash-based CLI tool that automates the archiving of log files. It compresses logs into a timestamped `.tar.gz` archive and maintains a history of all archive operations in a log file.
